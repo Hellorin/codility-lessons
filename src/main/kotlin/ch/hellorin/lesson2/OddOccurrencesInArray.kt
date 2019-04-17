@@ -5,8 +5,8 @@ fun solutionOddOccurrencesInArray(A: IntArray): Int {
 
     val iterator = A.iterator()
     while (iterator.hasNext()) {
-        // Works if we know that we have necessarily paired element
-        // The xor cancels each pair and leaves only the one missing
+        // Works if we know that we have necessarily paired elements.
+        // The xor cancels each pairs and leaves out only the one missing
         i = i xor iterator.nextInt()
     }
 
