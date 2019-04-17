@@ -1,4 +1,4 @@
-package ch.hellorin
+package ch.hellorin.lesson1
 
 import java.lang.Integer.max
 

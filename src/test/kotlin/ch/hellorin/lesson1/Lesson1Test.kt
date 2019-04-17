@@ -1,5 +1,6 @@
-package ch.hellorin
+package ch.hellorin.lesson1
 
+import ch.hellorin.lesson1.solutionLesson1
 import org.junit.Assert
 import org.junit.Test
 import org.junit.runner.RunWith

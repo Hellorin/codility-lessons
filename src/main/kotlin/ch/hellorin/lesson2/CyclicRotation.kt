@@ -1,6 +1,6 @@
-package ch.hellorin
+package ch.hellorin.lesson2
 
-fun solutionLesson2(A: IntArray, K: Int): IntArray {
+fun solutionCyclicRotation(A: IntArray, K: Int): IntArray {
     // Handle corner cases
     if (A.isEmpty() || K % A.size == 0) {
         return A
