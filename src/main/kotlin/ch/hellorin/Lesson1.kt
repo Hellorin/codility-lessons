@@ -4,11 +4,8 @@ import java.lang.Integer.max
 
 fun solutionLesson1(N: Int): Int {
     var tempN = N
-
     var seenAOne = false
-
     var maxCount = 0
-
     var curCount = 0
 
     while (tempN != 0) {
