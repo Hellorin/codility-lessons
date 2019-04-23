@@ -9,4 +9,4 @@ A repository that contains a couple solutions + tests for Codility website's les
 - Lesson6: https://app.codility.com/programmers/lessons/6-sorting/
 - Lesson7: https://app.codility.com/programmers/lessons/7-stacks_and_queues/
 
-https://travis-ci.org/Hellorin/codility-lessons.svg?branch=master
+[![Build Status](https://travis-ci.org/Hellorin/codility-lessons.svg?branch=master)](https://travis-ci.org/Hellorin/codility-lessons)
